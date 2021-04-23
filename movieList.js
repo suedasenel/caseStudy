@@ -45,7 +45,7 @@ const deleteMovie = (index) => {
 
     localStorage.setItem('data', JSON.stringify(data))
     document.getElementById("exampleModalButton").click();
-    getMovies()
+    changeList()
 }
 
 const changeList = () => {
