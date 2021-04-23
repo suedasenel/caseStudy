@@ -1,0 +1,64 @@
+.buttonL{
+    background-color:#C39A6A;
+    color: white;
+    width: 150px;
+}
+.buttonM{
+    background-color:#C39A6A;
+    color: white;
+    width: 80px;
+}
+.content{
+    width: 20%; 
+}
+
+.maxWidth38{
+    max-width: 38%;
+}
+.maxWidth75{
+    max-width: 75%;
+}
+.textCenter{
+    text-align: -webkit-center;
+}
+.colorGreen{
+    color: greenyellow;
+}
+.modalDialog{
+    max-width: 22%;
+    margin: 10.75rem auto !important
+}
+
+.marginLeft11{
+    margin-left: 11px;
+}
+.minWidth{
+    min-width: 12.5rem !important;
+}
+.top28{
+    top: 28px;
+}
+  .movieContent{
+    width: 1009px;
+}
+
+.movieCard{ 
+    height: 54px;     
+}
+.padding0{
+      padding-left: 0px !important;
+}
+.arrowUpDown{
+           margin-left: -8.6px;
+}
+
+.movieCard:hover .displayNone  {
+    display: inline !important
+  }
+.displayNone{
+      display: none !important;
+}
+.modalText{
+    width: 137px;
+    font-size: 20px;
+}
